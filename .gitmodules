@@ -1,0 +1,6 @@
+[submodule "5.2 JSON"]
+	path = 5.2 JSON
+	url = ./5.2 JSON/
+[submodule "5.3 Axios"]
+	path = 5.3 Axios
+	url = ./5.3 Axios/
